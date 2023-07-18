@@ -1,0 +1,28 @@
+.container {
+  width: 640px;
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+}
+.left {
+  margin-right: 20px;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.part {
+  display: flex;
+  margin-bottom: 24px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.img96 {
+  margin-right: 20px;
+}
+.footer {
+  height: 120px;
+}
